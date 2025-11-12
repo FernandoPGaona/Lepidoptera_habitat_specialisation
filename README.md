@@ -1,4 +1,4 @@
-# Lepidoptera Habitat Specialisation on Mount Cameroon
+# R Code for Lepidoptera Habitat Specialisation on Mount Cameroon
 
 R code supporting the paper:
 
