@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the following publication."
+authors:
+  - family-names: Gaona
+    given-names: Fernando P.
+title: "Butterfly and moth habitat specialisation changes along an elevational gradient of tropical forests on Mount Cameroon"
+journal: Oikos
+year: 2025
+doi: 10.1002/oik.11950
+license: MIT
+repository-code: https://github.com/FernandoPGaona/Lepidoptera_habitat_specialisation
